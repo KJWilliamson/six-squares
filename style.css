@@ -1,0 +1,14 @@
+/* Build six squares with no color */
+
+.square {
+    display: inline-block;
+    height: 10em;
+    width: 10em;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    clear: both;
+  }
+
+  
+
+  
